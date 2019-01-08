@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+.hyperlinks{
+	background-color: #347B98;
+	text-align: center;
+
+}
+
+.intoductiontext{
+
+	background-color: #D4EDF7;
+	width: 60%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.maintext{
+
+	background-color: #D4EDF7;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.image{
+
+	text-align: center;
+	text-align: bottom;
+}
+
+
